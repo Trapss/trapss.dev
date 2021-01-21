@@ -4,6 +4,7 @@ body {
 
 .card {
     display: flex;
+     border-radius: 5%;
     justify-content: center;
     flex-direction: row;
     background-color: #232326;
