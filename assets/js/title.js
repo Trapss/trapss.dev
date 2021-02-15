@@ -4,7 +4,7 @@ function titlebar(val) {
     var res = " ";
     var speed = 100;
     var pos = val;
-    const msg = " $$ iTrqPss $$ ";
+    const msg = "🔥🔥🔥 $$ iTrqPss $$ 🔥🔥🔥🔥🔥";
     var le = msg.length;
     if (rev == "fwd") {
         if (pos < le) {
